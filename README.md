@@ -82,8 +82,8 @@ Asimismo, se identificó un baldío adquirido en el 2016 para el Sindicato Únic
 
 
 -----
-**Autor:** [Jay Ballesteros](https://twitter.com/jballesterosc_)
+- **Autor:** [Jay Ballesteros](https://twitter.com/jballesterosc_)
 
-**Fecha de publicación:** Agosto, 2019 en https://github.com/jayballesterosc/proyecto_diogenes (viejo perfil)
+- **Fecha de publicación:** Agosto, 2019 en [jayballesteros](https://github.com/jayballesterosc/proyecto_diogenes)
 
-- [Perfil de Tableau](https://public.tableau.com/profile/jay.ballesteros#!/)
+- [**Perfil de Tableau**](https://public.tableau.com/profile/jay.ballesteros#!/)
